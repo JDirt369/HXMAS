@@ -8,16 +8,7 @@
 </svelte:head>
 
 <section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
-				<img src="svelte-welcome.png" alt="Welcome" />
-			</picture>
-		</span>
-
-		
-	</h1>
+	<h1></h1>
 
 	      <p align="center"><iframe
     src="https://gateway.ipfscdn.io/ipfs/QmPuyhD9TN9gp29M2YCvhRCjQbj3dBoN87omyBUnFAJiQM/token-drop.html?contract=0x2aBc4c6615bD994C97CcB689DF7E0931db47C0B0&chainId=56&primaryColor=pink"
