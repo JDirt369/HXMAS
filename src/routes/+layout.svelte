@@ -4,7 +4,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<style>
 			body {
-				background-color: #2f2d2d;
+				background-color: #000000;
 			}
 			h1 {
 				font-family: Verdana, sans-serif;
