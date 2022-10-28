@@ -16,14 +16,17 @@
   }
 </script>
 
+
 <Header />
 
 <main>
-	<slot />
+
+
+<slot />
 </main>
 
 <footer>
-	<p>visit <a href="https://Hex.com"></a> to learn about HEX</p>
+	<p>visit <a href="https://Hex.com">HEX.COM</a> to learn about HEX</p>
 </footer>
 
 <style>
