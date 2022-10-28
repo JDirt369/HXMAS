@@ -3,26 +3,21 @@
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<style>
-			h1 {
-				font-family: Georgia, serif;
-				color: #bb27de;
-				text-align: Center;
+			body {
+				background-color: #2f2d2d;
 			}
-			p {
-				font-family: Arial, sans-serif;
-				font-size: 14px;
-				text-align: default;
-				color: #2f2d2d;
+			h1 {
+				font-family: Verdana, sans-serif;
+				color: #ffffff;
+				text-align: Center;
 			}
 		</style>
 	</head>
 	<body>
-		<h1>CLAIM YOUR FREE HXMS BELOW!!
-               </h1>
+		<h1>CLAIM YOUR FREE HXMS BELOW 👇 </h1>
 		<p></p>
 	</body>
 </html>
-
 <main>
 
 
