@@ -27,7 +27,7 @@
     frameborder="0"
     ></iframe></p>
 
-	<Counter />
+	
 </section>
 
 <style>
