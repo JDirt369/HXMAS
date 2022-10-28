@@ -1,4 +1,26 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<style>
+			h1 {
+				font-family: Georgia, serif;
+				color: #bb27de;
+				text-align: Center;
+			}
+			p {
+				font-family: Arial, sans-serif;
+				font-size: 14px;
+				text-align: default;
+				color: #2f2d2d;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>CLAIM YOUR FREE HXMS</h1>
+		<p></p>
+	</body>
+</html>
 
 <main>
 
