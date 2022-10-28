@@ -23,7 +23,7 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p>visit <a href="https://Hex.com"></a> to learn about HEX</p>
 </footer>
 
 <style>
